@@ -23,6 +23,14 @@ Desenvolvendo projetos para Desenvolvimento Web Full Stack!
 
 ##
 
+### Roadmap
+
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ### Últimos repositórios
 
 * [Jogo de escolhas com temática espacial](https://github.com/cxavier6/jogo-de-escolhas)
