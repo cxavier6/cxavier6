@@ -45,5 +45,5 @@ Desenvolvendo projetos para Desenvolvimento Web Full Stack!
 
 * [Página de seleção para X1 de personagens Marvel](https://github.com/cxavier6/projeto-marvel)
 * [Codificador e decodificador de texto](https://github.com/cxavier6/codificador-mensagem)
-* [30 mini projetos com HTML, CSS e Javascript](https://github.com/cxavier6/30-mini-projetos)
+* [10 mini projetos com HTML, CSS e Javascript](https://github.com/cxavier6/10-mini-projetos)
 * [Foto astronômica do dia com a API APOD da Nasa](https://github.com/cxavier6/apod-api)
