@@ -45,7 +45,7 @@
 
 ##
 
-### Últimos repositórios
+### Alguns repositórios
 
 * [Página de seleção para X1 de personagens Marvel](https://github.com/cxavier6/projeto-marvel)
 * [Codificador e decodificador de texto](https://github.com/cxavier6/codificador-mensagem)
