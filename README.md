@@ -48,6 +48,7 @@
 ### Alguns repositórios
 
 * [Página de seleção para X1 de personagens Marvel](https://github.com/cxavier6/projeto-marvel)
+* [Landing Page com Bootstrap 5](https://github.com/cxavier6/qreate-bootstrap)
 * [Codificador e decodificador de texto](https://github.com/cxavier6/codificador-mensagem)
 * [10 mini projetos com HTML, CSS e Javascript](https://github.com/cxavier6/10-mini-projetos)
 * [Foto astronômica do dia com a API APOD da Nasa](https://github.com/cxavier6/apod-api)
