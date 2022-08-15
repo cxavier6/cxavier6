@@ -47,7 +47,7 @@
 
 ### Alguns repositórios
 
-* [API Livrasilia com Node.JS](https://github.com/cxavier6/LivrasiliaAPI)
+* [API Livrasilia com Node.JS e Express](https://github.com/cxavier6/LivrasiliaAPI)
 * [Página de seleção para X1 de personagens Marvel](https://github.com/cxavier6/projeto-marvel)
 * [Landing Page com Bootstrap 5](https://github.com/cxavier6/qreate-bootstrap)
 * [Codificador e decodificador de texto com Javascript](https://github.com/cxavier6/codificador-mensagem)
