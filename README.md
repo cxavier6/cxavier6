@@ -33,6 +33,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 ##
@@ -40,14 +41,14 @@
 ### Roadmap
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ##
 
 ### Alguns repositórios
 
-* [Aplicação ReactJS para gerenciamento de produtos e clientes da LivrasiliaAPI]
+* [Aplicação ReactJS para gerenciamento de produtos e clientes da LivrasiliaAPI](https://github.com/cxavier6/livrasilia-react)
 * [API Livrasilia com Node.JS e Express](https://github.com/cxavier6/LivrasiliaAPI)
 * [Análise de base de dados da NBA com MySQL](https://github.com/cxavier6/analise-nba)
 * [Landing Page com Bootstrap 5](https://github.com/cxavier6/qreate-bootstrap)
