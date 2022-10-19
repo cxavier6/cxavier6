@@ -2,7 +2,8 @@
 
 ⚡ Graduação em Engenharia de Produção
 
-⚡ Desenvolvendo projetos para Desenvolvimento Web Full Stack!
+⚡ Desenvolvendo projetos para Desenvolvimento Web Full Stack (Focando no back-end)!
+
 
 
 
