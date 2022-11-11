@@ -1,10 +1,10 @@
-## Olá! Eu sou a Camila 👋
+## Olá! Eu sou a Camila 👩‍🚀
 
 ⚡ Graduada em Engenharia de Produção
 
 ⚡ Pós-graduação em Projetos de Cloud Computing  em andamento 
 
-⚡ Desenvolvendo projetos para Desenvolvimento Web Full Stack (Focando no back-end)!
+⚡ Desenvolvendo projetos para Desenvolvimento Web Full Stack (Focando no back-end)
 
 
 
