@@ -51,10 +51,10 @@
 
 ### Alguns repositórios
 
+* [Microsserviço de notificações com Node.js, Prisma ORM, Nest.js e Testes automatizados com Jest](https://github.com/cxavier6/notifications-service)
 * [Aplicação ReactJS para gerenciamento de produtos e clientes da LivrasiliaAPI](https://github.com/cxavier6/livrasilia-react)
 * [API Livrasilia com Node.JS e Express](https://github.com/cxavier6/LivrasiliaAPI)
 * [Análise de base de dados da NBA com MySQL](https://github.com/cxavier6/analise-nba)
-* [Landing Page com Bootstrap 5](https://github.com/cxavier6/qreate-bootstrap)
 * [Codificador e decodificador de texto com Javascript](https://github.com/cxavier6/codificador-mensagem)
 * [10 mini projetos com HTML, CSS e Javascript](https://github.com/cxavier6/10-mini-projetos)
 * [Foto astronômica do dia com a API APOD da Nasa](https://github.com/cxavier6/apod-api)
