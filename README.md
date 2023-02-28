@@ -39,26 +39,24 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ##
 
 ### Roadmap
 
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 	
 ##
 
 ### Alguns repositórios
 
+* [API REST com Node.js, Express, Mongoose e Swagger docs](https://github.com/cxavier6/Banco-de-talentos/tree/camila-reis-backend)
 * [Microsserviço de notificações com Node.js, Prisma ORM, Nest.js e Testes automatizados com Jest](https://github.com/cxavier6/notifications-service)
 * [Aplicação ReactJS para gerenciamento de produtos e clientes da LivrasiliaAPI](https://github.com/cxavier6/livrasilia-react)
 * [API Livrasilia com Node.JS e Express](https://github.com/cxavier6/LivrasiliaAPI)
 * [Análise de base de dados da NBA com MySQL](https://github.com/cxavier6/analise-nba)
 * [Codificador e decodificador de texto com Javascript](https://github.com/cxavier6/codificador-mensagem)
 * [10 mini projetos com HTML, CSS e Javascript](https://github.com/cxavier6/10-mini-projetos)
-* [Foto astronômica do dia com a API APOD da Nasa](https://github.com/cxavier6/apod-api)
