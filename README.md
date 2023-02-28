@@ -53,7 +53,7 @@
 
 ### Alguns repositórios
 
-* [API REST com Node.js, Express, Mongoose e Swagger docs](https://github.com/cxavier6/Banco-de-talentos/tree/camila-reis-backend)
+* [API REST com Node.js, Express, Mongoose, Jest e Swagger docs](https://github.com/cxavier6/Banco-de-talentos/tree/camila-reis-backend/backend)
 * [Microsserviço de notificações com Node.js, Prisma ORM, Nest.js e Testes automatizados com Jest](https://github.com/cxavier6/notifications-service)
 * [Aplicação ReactJS para gerenciamento de produtos e clientes da LivrasiliaAPI](https://github.com/cxavier6/livrasilia-react)
 * [API Livrasilia com Node.JS e Express](https://github.com/cxavier6/LivrasiliaAPI)
