@@ -2,9 +2,9 @@
 
 ⚡ Graduada em Engenharia de Produção
 
-⚡ Pós-graduação em Projetos de Cloud Computing  em andamento 
+⚡ Pós-graduação em Projetos de Cloud Computing 
 
-⚡ Desenvolvendo projetos para Desenvolvimento Web Full Stack (Focando no back-end)
+⚡ DevOps Engineer com background em Desenvolvimento backend
 
 
 
@@ -28,6 +28,7 @@
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images3.alphacoders.com/882/882548.jpg">
 </div>
 
+#### Desevolvimento
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,15 +40,20 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+#### DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+**GitOps ArgoCD**
 
-##
-
-### Roadmap
-
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 	
 ##
 
@@ -59,4 +65,3 @@
 * [API Livrasilia com Node.JS e Express](https://github.com/cxavier6/LivrasiliaAPI)
 * [Análise de base de dados da NBA com MySQL](https://github.com/cxavier6/analise-nba)
 * [Codificador e decodificador de texto com Javascript](https://github.com/cxavier6/codificador-mensagem)
-* [10 mini projetos com HTML, CSS e Javascript](https://github.com/cxavier6/10-mini-projetos)
